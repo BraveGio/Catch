@@ -1,1 +1,9 @@
 c:\users\adam\documents\visual studio 2015\Projects\Cutch your touch\Cutch your touch\bin\Debug\Cutch your touch.exe.config
+c:\users\adam\documents\visual studio 2015\Projects\Cutch your touch\Cutch your touch\bin\Debug\Cutch your touch.exe
+c:\users\adam\documents\visual studio 2015\Projects\Cutch your touch\Cutch your touch\bin\Debug\Cutch your touch.pdb
+c:\users\adam\documents\visual studio 2015\Projects\Cutch your touch\Cutch your touch\obj\Debug\Cutch your touch.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2015\Projects\Cutch your touch\Cutch your touch\obj\Debug\Cutch_your_touch.Form1.resources
+c:\users\adam\documents\visual studio 2015\Projects\Cutch your touch\Cutch your touch\obj\Debug\Cutch_your_touch.Properties.Resources.resources
+c:\users\adam\documents\visual studio 2015\Projects\Cutch your touch\Cutch your touch\obj\Debug\Cutch your touch.csproj.GenerateResource.Cache
+c:\users\adam\documents\visual studio 2015\Projects\Cutch your touch\Cutch your touch\obj\Debug\Cutch your touch.exe
+c:\users\adam\documents\visual studio 2015\Projects\Cutch your touch\Cutch your touch\obj\Debug\Cutch your touch.pdb
