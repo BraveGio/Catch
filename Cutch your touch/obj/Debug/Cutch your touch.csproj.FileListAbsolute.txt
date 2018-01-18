@@ -7,3 +7,13 @@ c:\users\adam\documents\visual studio 2015\Projects\Cutch your touch\Cutch your 
 c:\users\adam\documents\visual studio 2015\Projects\Cutch your touch\Cutch your touch\obj\Debug\Cutch your touch.csproj.GenerateResource.Cache
 c:\users\adam\documents\visual studio 2015\Projects\Cutch your touch\Cutch your touch\obj\Debug\Cutch your touch.exe
 c:\users\adam\documents\visual studio 2015\Projects\Cutch your touch\Cutch your touch\obj\Debug\Cutch your touch.pdb
+G:\Catch\Cutch your touch\bin\Debug\Cutch your touch.exe.config
+G:\Catch\Cutch your touch\obj\Debug\Cutch your touch.exe
+G:\Catch\Cutch your touch\obj\Debug\Cutch your touch.pdb
+G:\Catch\Cutch your touch\bin\Debug\Cutch your touch.exe
+G:\Catch\Cutch your touch\bin\Debug\Cutch your touch.pdb
+G:\Catch\Cutch your touch\obj\Debug\Cutch your touch.csprojResolveAssemblyReference.cache
+G:\Catch\Cutch your touch\obj\Debug\Cutch_your_touch.Properties.Resources.resources
+G:\Catch\Cutch your touch\obj\Debug\Cutch your touch.csproj.GenerateResource.Cache
+G:\Catch\Cutch your touch\obj\Debug\Cutch_your_touch.tlo.resources
+G:\Catch\Cutch your touch\obj\Debug\Cutch_your_touch.glowna.resources

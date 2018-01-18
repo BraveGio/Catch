@@ -1,6 +1,8 @@
-﻿namespace Cutch_your_touch
+﻿using System.Runtime.CompilerServices;
+
+namespace Cutch_your_touch
 {
-    partial class Form1
+    partial class glowna
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +31,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(glowna));
             this.panel1 = new System.Windows.Forms.Panel();
             this.przyciskScreen = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -61,7 +63,6 @@
             this.przyciskScreen.Text = "Screen";
             this.przyciskScreen.UseVisualStyleBackColor = true;
             this.przyciskScreen.MouseDown += new System.Windows.Forms.MouseEventHandler(this.przyciskScreen_MouseDown);
-            this.przyciskScreen.MouseUp += new System.Windows.Forms.MouseEventHandler(this.przyciskScreen_MouseUp);
             // 
             // panel2
             // 
@@ -80,7 +81,6 @@
             this.podglad.Location = new System.Drawing.Point(180, 32);
             this.podglad.Name = "podglad";
             this.podglad.Size = new System.Drawing.Size(797, 558);
-            this.podglad.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.podglad.TabIndex = 2;
             this.podglad.TabStop = false;
             // 
@@ -105,9 +105,8 @@
             this.ResumeLayout(false);
 
         }
-
         #endregion
-
+        
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Button przyciskScreen;
         private System.Windows.Forms.Panel panel2;
